@@ -4,269 +4,534 @@
       {
         "src": "photos/homepage/best-game-day/_GTS0623.jpg",
         "alt": "Women's Basketball Super Sectional 2026",
-        "caption": "Women's Basketball Super Sectional 2026"
+        "caption": "Women's Basketball Super Sectional 2026",
+        "thumb": "photos/thumbs/homepage/best-game-day/_GTS0623.webp",
+        "srcset": "photos/thumbs/homepage/best-game-day/_GTS0623.webp 800w, photos/homepage/best-game-day/_GTS0623.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/homepage/best-game-day/_GTS0960.jpg",
         "alt": "Girls Track Conference Championship 2026",
-        "caption": "Girls Track Conference Championship 2026"
+        "caption": "Girls Track Conference Championship 2026",
+        "thumb": "photos/thumbs/homepage/best-game-day/_GTS0960.webp",
+        "srcset": "photos/thumbs/homepage/best-game-day/_GTS0960.webp 800w, photos/homepage/best-game-day/_GTS0960.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/homepage/best-game-day/_GTS3280.jpg",
         "alt": "Baseball 2026",
-        "caption": "Baseball 2026"
+        "caption": "Baseball 2026",
+        "thumb": "photos/thumbs/homepage/best-game-day/_GTS3280.webp",
+        "srcset": "photos/thumbs/homepage/best-game-day/_GTS3280.webp 800w, photos/homepage/best-game-day/_GTS3280.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/homepage/best-game-day/_GTS4787.jpg",
         "alt": "Baseball 2026",
-        "caption": "Baseball 2026"
+        "caption": "Baseball 2026",
+        "thumb": "photos/thumbs/homepage/best-game-day/_GTS4787.webp",
+        "srcset": "photos/thumbs/homepage/best-game-day/_GTS4787.webp 800w, photos/homepage/best-game-day/_GTS4787.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/homepage/best-game-day/_GTS5207.jpg",
         "alt": "Baseball 2026",
-        "caption": "Baseball 2026"
+        "caption": "Baseball 2026",
+        "thumb": "photos/thumbs/homepage/best-game-day/_GTS5207.webp",
+        "srcset": "photos/thumbs/homepage/best-game-day/_GTS5207.webp 800w, photos/homepage/best-game-day/_GTS5207.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/homepage/best-game-day/_GTS9005.jpg",
         "alt": "Women's Basketball Sectional Championship 2026",
-        "caption": "Women's Basketball Sectional Championship 2026"
+        "caption": "Women's Basketball Sectional Championship 2026",
+        "thumb": "photos/thumbs/homepage/best-game-day/_GTS9005.webp",
+        "srcset": "photos/thumbs/homepage/best-game-day/_GTS9005.webp 800w, photos/homepage/best-game-day/_GTS9005.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/homepage/best-game-day/_GTS9095.jpg",
         "alt": "Girls Track State Championship 2026",
-        "caption": "Girls Track State Championship 2026"
+        "caption": "Girls Track State Championship 2026",
+        "thumb": "photos/thumbs/homepage/best-game-day/_GTS9095.webp",
+        "srcset": "photos/thumbs/homepage/best-game-day/_GTS9095.webp 800w, photos/homepage/best-game-day/_GTS9095.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/homepage/best-game-day/v.jpg",
         "alt": "Wrestling State Championship 2026",
-        "caption": "Wrestling State Championship 2026"
+        "caption": "Wrestling State Championship 2026",
+        "thumb": "photos/thumbs/homepage/best-game-day/v.webp",
+        "srcset": "photos/thumbs/homepage/best-game-day/v.webp 800w, photos/homepage/best-game-day/v.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       }
     ],
     "collage": [
       {
         "src": "photos/1/_GTS8277.jpg",
         "alt": "Girls Track State Championship 2026",
-        "caption": "Girls Track State Championship 2026"
+        "caption": "Girls Track State Championship 2026",
+        "thumb": "photos/thumbs/1/_GTS8277.webp",
+        "srcset": "photos/thumbs/1/_GTS8277.webp 800w, photos/1/_GTS8277.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/2/_GTS1863.jpg",
         "alt": "Girls Track Conference Championship 2026",
-        "caption": "Girls Track Conference Championship 2026"
+        "caption": "Girls Track Conference Championship 2026",
+        "thumb": "photos/thumbs/2/_GTS1863.webp",
+        "srcset": "photos/thumbs/2/_GTS1863.webp 800w, photos/2/_GTS1863.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/3/_GTS6816.jpg",
         "alt": "Wrestling State Championship 2026",
-        "caption": "Wrestling State Championship 2026"
+        "caption": "Wrestling State Championship 2026",
+        "thumb": "photos/thumbs/3/_GTS6816.webp",
+        "srcset": "photos/thumbs/3/_GTS6816.webp 800w, photos/3/_GTS6816.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/2/_GTS1919.jpg",
         "alt": "Girls Track Conference Championship 2026",
-        "caption": "Girls Track Conference Championship 2026"
+        "caption": "Girls Track Conference Championship 2026",
+        "thumb": "photos/thumbs/2/_GTS1919.webp",
+        "srcset": "photos/thumbs/2/_GTS1919.webp 800w, photos/2/_GTS1919.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/1/_GTS8787.jpg",
         "alt": "Girls Track State Championship 2026",
-        "caption": "Girls Track State Championship 2026"
+        "caption": "Girls Track State Championship 2026",
+        "thumb": "photos/thumbs/1/_GTS8787.webp",
+        "srcset": "photos/thumbs/1/_GTS8787.webp 800w, photos/1/_GTS8787.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/2/_GTS1368.jpg",
         "alt": "Girls Track Conference Championship 2026",
-        "caption": "Girls Track Conference Championship 2026"
+        "caption": "Girls Track Conference Championship 2026",
+        "thumb": "photos/thumbs/2/_GTS1368.webp",
+        "srcset": "photos/thumbs/2/_GTS1368.webp 800w, photos/2/_GTS1368.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/3/_GTS7475.jpg",
         "alt": "Wrestling State Championship 2026",
-        "caption": "Wrestling State Championship 2026"
+        "caption": "Wrestling State Championship 2026",
+        "thumb": "photos/thumbs/3/_GTS7475.webp",
+        "srcset": "photos/thumbs/3/_GTS7475.webp 800w, photos/3/_GTS7475.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/1/_GTS7473.jpg",
         "alt": "Girls Track State Championship 2026",
-        "caption": "Girls Track State Championship 2026"
+        "caption": "Girls Track State Championship 2026",
+        "thumb": "photos/thumbs/1/_GTS7473.webp",
+        "srcset": "photos/thumbs/1/_GTS7473.webp 800w, photos/1/_GTS7473.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/5/_GTS3446.jpg",
         "alt": "Men's Tennis 2026",
-        "caption": "Men's Tennis 2026"
+        "caption": "Men's Tennis 2026",
+        "thumb": "photos/thumbs/5/_GTS3446.webp",
+        "srcset": "photos/thumbs/5/_GTS3446.webp 800w, photos/5/_GTS3446.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/3/_GTS6304.jpg",
         "alt": "Wrestling State Championship 2026",
-        "caption": "Wrestling State Championship 2026"
+        "caption": "Wrestling State Championship 2026",
+        "thumb": "photos/thumbs/3/_GTS6304.webp",
+        "srcset": "photos/thumbs/3/_GTS6304.webp 800w, photos/3/_GTS6304.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/2/_GTS1898.jpg",
         "alt": "Girls Track Conference Championship 2026",
-        "caption": "Girls Track Conference Championship 2026"
+        "caption": "Girls Track Conference Championship 2026",
+        "thumb": "photos/thumbs/2/_GTS1898.webp",
+        "srcset": "photos/thumbs/2/_GTS1898.webp 800w, photos/2/_GTS1898.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/3/_GTS7545.jpg",
         "alt": "Wrestling State Championship 2026",
-        "caption": "Wrestling State Championship 2026"
+        "caption": "Wrestling State Championship 2026",
+        "thumb": "photos/thumbs/3/_GTS7545.webp",
+        "srcset": "photos/thumbs/3/_GTS7545.webp 800w, photos/3/_GTS7545.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/4/_GTS3144.jpg",
         "alt": "Baseball 2026",
-        "caption": "Baseball 2026"
+        "caption": "Baseball 2026",
+        "thumb": "photos/thumbs/4/_GTS3144.webp",
+        "srcset": "photos/thumbs/4/_GTS3144.webp 800w, photos/4/_GTS3144.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/3/_GTS7603.jpg",
         "alt": "Wrestling State Championship 2026",
-        "caption": "Wrestling State Championship 2026"
+        "caption": "Wrestling State Championship 2026",
+        "thumb": "photos/thumbs/3/_GTS7603.webp",
+        "srcset": "photos/thumbs/3/_GTS7603.webp 800w, photos/3/_GTS7603.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/6/_GTS4685.jpg",
         "alt": "Baseball 2026",
-        "caption": "Baseball 2026"
+        "caption": "Baseball 2026",
+        "thumb": "photos/thumbs/6/_GTS4685.webp",
+        "srcset": "photos/thumbs/6/_GTS4685.webp 800w, photos/6/_GTS4685.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/4/_GTS3269.jpg",
         "alt": "Baseball 2026",
-        "caption": "Baseball 2026"
+        "caption": "Baseball 2026",
+        "thumb": "photos/thumbs/4/_GTS3269.webp",
+        "srcset": "photos/thumbs/4/_GTS3269.webp 800w, photos/4/_GTS3269.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/3/_GTS7672.jpg",
         "alt": "Wrestling State Championship 2026",
-        "caption": "Wrestling State Championship 2026"
+        "caption": "Wrestling State Championship 2026",
+        "thumb": "photos/thumbs/3/_GTS7672.webp",
+        "srcset": "photos/thumbs/3/_GTS7672.webp 800w, photos/3/_GTS7672.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/5/_GTS3538.jpg",
         "alt": "Men's Lacrosse 2026",
-        "caption": "Men's Lacrosse 2026"
+        "caption": "Men's Lacrosse 2026",
+        "thumb": "photos/thumbs/5/_GTS3538.webp",
+        "srcset": "photos/thumbs/5/_GTS3538.webp 800w, photos/5/_GTS3538.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/6/_GTS4731.jpg",
         "alt": "Baseball 2026",
-        "caption": "Baseball 2026"
+        "caption": "Baseball 2026",
+        "thumb": "photos/thumbs/6/_GTS4731.webp",
+        "srcset": "photos/thumbs/6/_GTS4731.webp 800w, photos/6/_GTS4731.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/4/_GTS3161.jpg",
         "alt": "Baseball 2026",
-        "caption": "Baseball 2026"
+        "caption": "Baseball 2026",
+        "thumb": "photos/thumbs/4/_GTS3161.webp",
+        "srcset": "photos/thumbs/4/_GTS3161.webp 800w, photos/4/_GTS3161.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/6/_GTS4756.jpg",
         "alt": "Baseball 2026",
-        "caption": "Baseball 2026"
+        "caption": "Baseball 2026",
+        "thumb": "photos/thumbs/6/_GTS4756.webp",
+        "srcset": "photos/thumbs/6/_GTS4756.webp 800w, photos/6/_GTS4756.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/5/_GTS3307.jpg",
         "alt": "Men's Lacrosse 2026",
-        "caption": "Men's Lacrosse 2026"
+        "caption": "Men's Lacrosse 2026",
+        "thumb": "photos/thumbs/5/_GTS3307.webp",
+        "srcset": "photos/thumbs/5/_GTS3307.webp 800w, photos/5/_GTS3307.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/5/_GTS3473.jpg",
         "alt": "Men's Tennis 2026",
-        "caption": "Men's Tennis 2026"
+        "caption": "Men's Tennis 2026",
+        "thumb": "photos/thumbs/5/_GTS3473.webp",
+        "srcset": "photos/thumbs/5/_GTS3473.webp 800w, photos/5/_GTS3473.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/7/_GTS0223.jpg",
         "alt": "Women's Basketball Super Sectional 2026",
-        "caption": "Women's Basketball Super Sectional 2026"
+        "caption": "Women's Basketball Super Sectional 2026",
+        "thumb": "photos/thumbs/7/_GTS0223.webp",
+        "srcset": "photos/thumbs/7/_GTS0223.webp 800w, photos/7/_GTS0223.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/9/_GTS8711.jpg",
         "alt": "Women's Basketball Sectional Championship 2026",
-        "caption": "Women's Basketball Sectional Championship 2026"
+        "caption": "Women's Basketball Sectional Championship 2026",
+        "thumb": "photos/thumbs/9/_GTS8711.webp",
+        "srcset": "photos/thumbs/9/_GTS8711.webp 800w, photos/9/_GTS8711.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/6/_GTS4772.jpg",
         "alt": "Baseball 2026",
-        "caption": "Baseball 2026"
+        "caption": "Baseball 2026",
+        "thumb": "photos/thumbs/6/_GTS4772.webp",
+        "srcset": "photos/thumbs/6/_GTS4772.webp 800w, photos/6/_GTS4772.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/7/_GTS0271.jpg",
         "alt": "Women's Basketball Super Sectional 2026",
-        "caption": "Women's Basketball Super Sectional 2026"
+        "caption": "Women's Basketball Super Sectional 2026",
+        "thumb": "photos/thumbs/7/_GTS0271.webp",
+        "srcset": "photos/thumbs/7/_GTS0271.webp 800w, photos/7/_GTS0271.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/6/_GTS4814.jpg",
         "alt": "Baseball 2026",
-        "caption": "Baseball 2026"
+        "caption": "Baseball 2026",
+        "thumb": "photos/thumbs/6/_GTS4814.webp",
+        "srcset": "photos/thumbs/6/_GTS4814.webp 800w, photos/6/_GTS4814.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/9/_GTS8484.jpg",
         "alt": "Women's Basketball Sectional Championship 2026",
-        "caption": "Women's Basketball Sectional Championship 2026"
+        "caption": "Women's Basketball Sectional Championship 2026",
+        "thumb": "photos/thumbs/9/_GTS8484.webp",
+        "srcset": "photos/thumbs/9/_GTS8484.webp 800w, photos/9/_GTS8484.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/6/_GTS5010-2.jpg",
         "alt": "Baseball 2026",
-        "caption": "Baseball 2026"
+        "caption": "Baseball 2026",
+        "thumb": "photos/thumbs/6/_GTS5010-2.webp",
+        "srcset": "photos/thumbs/6/_GTS5010-2.webp 800w, photos/6/_GTS5010-2.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/10/GTS03378.jpg",
         "alt": "Baseball 2025",
-        "caption": "Baseball 2025"
+        "caption": "Baseball 2025",
+        "thumb": "photos/thumbs/10/GTS03378.webp",
+        "srcset": "photos/thumbs/10/GTS03378.webp 800w, photos/10/GTS03378.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/7/_GTS0763.jpg",
         "alt": "Women's Basketball Super Sectional 2026",
-        "caption": "Women's Basketball Super Sectional 2026"
+        "caption": "Women's Basketball Super Sectional 2026",
+        "thumb": "photos/thumbs/7/_GTS0763.webp",
+        "srcset": "photos/thumbs/7/_GTS0763.webp 800w, photos/7/_GTS0763.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/6/_GTS5357.jpg",
         "alt": "Baseball 2026",
-        "caption": "Baseball 2026"
+        "caption": "Baseball 2026",
+        "thumb": "photos/thumbs/6/_GTS5357.webp",
+        "srcset": "photos/thumbs/6/_GTS5357.webp 800w, photos/6/_GTS5357.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/9/_GTS9056.jpg",
         "alt": "Women's Basketball Sectional Championship 2026",
-        "caption": "Women's Basketball Sectional Championship 2026"
+        "caption": "Women's Basketball Sectional Championship 2026",
+        "thumb": "photos/thumbs/9/_GTS9056.webp",
+        "srcset": "photos/thumbs/9/_GTS9056.webp 800w, photos/9/_GTS9056.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/11/GTS00513.jpg",
         "alt": "Baseball 2025",
-        "caption": "Baseball 2025"
+        "caption": "Baseball 2025",
+        "thumb": "photos/thumbs/11/GTS00513.webp",
+        "srcset": "photos/thumbs/11/GTS00513.webp 800w, photos/11/GTS00513.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/10/GTS03985.jpg",
         "alt": "Baseball 2025",
-        "caption": "Baseball 2025"
+        "caption": "Baseball 2025",
+        "thumb": "photos/thumbs/10/GTS03985.webp",
+        "srcset": "photos/thumbs/10/GTS03985.webp 800w, photos/10/GTS03985.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/10/GTS03620.jpg",
         "alt": "Baseball 2025",
-        "caption": "Baseball 2025"
+        "caption": "Baseball 2025",
+        "thumb": "photos/thumbs/10/GTS03620.webp",
+        "srcset": "photos/thumbs/10/GTS03620.webp 800w, photos/10/GTS03620.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/12/GTS00507-Enhanced-NR.jpg",
         "alt": "Women's Basketball 2025",
-        "caption": "Women's Basketball 2025"
+        "caption": "Women's Basketball 2025",
+        "thumb": "photos/thumbs/12/GTS00507-Enhanced-NR.webp",
+        "srcset": "photos/thumbs/12/GTS00507-Enhanced-NR.webp 800w, photos/12/GTS00507-Enhanced-NR.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/11/GTS00659.jpg",
         "alt": "Baseball 2025",
-        "caption": "Baseball 2025"
+        "caption": "Baseball 2025",
+        "thumb": "photos/thumbs/11/GTS00659.webp",
+        "srcset": "photos/thumbs/11/GTS00659.webp 800w, photos/11/GTS00659.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/10/GTS03499.jpg",
         "alt": "Baseball 2025",
-        "caption": "Baseball 2025"
+        "caption": "Baseball 2025",
+        "thumb": "photos/thumbs/10/GTS03499.webp",
+        "srcset": "photos/thumbs/10/GTS03499.webp 800w, photos/10/GTS03499.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/12/GTS00944-Enhanced-NR.jpg",
         "alt": "Women's Basketball 2025",
-        "caption": "Women's Basketball 2025"
+        "caption": "Women's Basketball 2025",
+        "thumb": "photos/thumbs/12/GTS00944-Enhanced-NR.webp",
+        "srcset": "photos/thumbs/12/GTS00944-Enhanced-NR.webp 800w, photos/12/GTS00944-Enhanced-NR.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/11/GTS01068.jpg",
         "alt": "Baseball 2025",
-        "caption": "Baseball 2025"
+        "caption": "Baseball 2025",
+        "thumb": "photos/thumbs/11/GTS01068.webp",
+        "srcset": "photos/thumbs/11/GTS01068.webp 800w, photos/11/GTS01068.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/12/GTS00975-Enhanced-NR.jpg",
         "alt": "Women's Basketball 2025",
-        "caption": "Women's Basketball 2025"
+        "caption": "Women's Basketball 2025",
+        "thumb": "photos/thumbs/12/GTS00975-Enhanced-NR.webp",
+        "srcset": "photos/thumbs/12/GTS00975-Enhanced-NR.webp 800w, photos/12/GTS00975-Enhanced-NR.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/11/GTS01033.jpg",
         "alt": "Baseball 2025",
-        "caption": "Baseball 2025"
+        "caption": "Baseball 2025",
+        "thumb": "photos/thumbs/11/GTS01033.webp",
+        "srcset": "photos/thumbs/11/GTS01033.webp 800w, photos/11/GTS01033.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/12/GTS00555-Enhanced-NR.jpg",
         "alt": "Women's Basketball 2025",
-        "caption": "Women's Basketball 2025"
+        "caption": "Women's Basketball 2025",
+        "thumb": "photos/thumbs/12/GTS00555-Enhanced-NR.webp",
+        "srcset": "photos/thumbs/12/GTS00555-Enhanced-NR.webp 800w, photos/12/GTS00555-Enhanced-NR.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       }
     ]
   },
@@ -275,294 +540,584 @@
       {
         "src": "photos/homepage/best-media-day/72f7c5d4-237c-4f26-90ac-2524ceb349b4_rw_600.jpg",
         "alt": "Football 2026",
-        "caption": "Football 2026"
+        "caption": "Football 2026",
+        "thumb": "photos/thumbs/homepage/best-media-day/72f7c5d4-237c-4f26-90ac-2524ceb349b4_rw_600.webp",
+        "srcset": "photos/thumbs/homepage/best-media-day/72f7c5d4-237c-4f26-90ac-2524ceb349b4_rw_600.webp 800w, photos/homepage/best-media-day/72f7c5d4-237c-4f26-90ac-2524ceb349b4_rw_600.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/homepage/best-media-day/_GTS1530.jpg",
         "alt": "Wrestling 2026",
-        "caption": "Wrestling 2026"
+        "caption": "Wrestling 2026",
+        "thumb": "photos/thumbs/homepage/best-media-day/_GTS1530.webp",
+        "srcset": "photos/thumbs/homepage/best-media-day/_GTS1530.webp 800w, photos/homepage/best-media-day/_GTS1530.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/homepage/best-media-day/_GTS1545.jpg",
         "alt": "Baseball 2025",
-        "caption": "Baseball 2025"
+        "caption": "Baseball 2025",
+        "thumb": "photos/thumbs/homepage/best-media-day/_GTS1545.webp",
+        "srcset": "photos/thumbs/homepage/best-media-day/_GTS1545.webp 800w, photos/homepage/best-media-day/_GTS1545.jpg 1365w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1173
       },
       {
         "src": "photos/homepage/best-media-day/_GTS1607.jpg",
         "alt": "Wrestling 2026",
-        "caption": "Wrestling 2026"
+        "caption": "Wrestling 2026",
+        "thumb": "photos/thumbs/homepage/best-media-day/_GTS1607.webp",
+        "srcset": "photos/thumbs/homepage/best-media-day/_GTS1607.webp 800w, photos/homepage/best-media-day/_GTS1607.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/homepage/best-media-day/_GTS1837.jpg",
         "alt": "Men's Basketball 2026",
-        "caption": "Men's Basketball 2026"
+        "caption": "Men's Basketball 2026",
+        "thumb": "photos/thumbs/homepage/best-media-day/_GTS1837.webp",
+        "srcset": "photos/thumbs/homepage/best-media-day/_GTS1837.webp 800w, photos/homepage/best-media-day/_GTS1837.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/homepage/best-media-day/_GTS2937.jpg",
         "alt": "Men's Soccer 2026",
-        "caption": "Men's Soccer 2026"
+        "caption": "Men's Soccer 2026",
+        "thumb": "photos/thumbs/homepage/best-media-day/_GTS2937.webp",
+        "srcset": "photos/thumbs/homepage/best-media-day/_GTS2937.webp 800w, photos/homepage/best-media-day/_GTS2937.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/homepage/best-media-day/beb793b7-a485-4b3a-ad9c-5cab54e74b94_rw_600.jpg",
         "alt": "Football 2026",
-        "caption": "Football 2026"
+        "caption": "Football 2026",
+        "thumb": "photos/thumbs/homepage/best-media-day/beb793b7-a485-4b3a-ad9c-5cab54e74b94_rw_600.webp",
+        "srcset": "photos/thumbs/homepage/best-media-day/beb793b7-a485-4b3a-ad9c-5cab54e74b94_rw_600.webp 800w, photos/homepage/best-media-day/beb793b7-a485-4b3a-ad9c-5cab54e74b94_rw_600.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/homepage/best-media-day/cacb30cf-77bd-46f9-8da4-e86f06efb077_rw_600.jpg",
         "alt": "Football 2026",
-        "caption": "Football 2026"
+        "caption": "Football 2026",
+        "thumb": "photos/thumbs/homepage/best-media-day/cacb30cf-77bd-46f9-8da4-e86f06efb077_rw_600.webp",
+        "srcset": "photos/thumbs/homepage/best-media-day/cacb30cf-77bd-46f9-8da4-e86f06efb077_rw_600.webp 800w, photos/homepage/best-media-day/cacb30cf-77bd-46f9-8da4-e86f06efb077_rw_600.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       }
     ],
     "collage": [
       {
         "src": "photos/media-day/1/_GTS3838.jpg",
         "alt": "Softball 2026",
-        "caption": "Softball 2026"
+        "caption": "Softball 2026",
+        "thumb": "photos/thumbs/media-day/1/_GTS3838.webp",
+        "srcset": "photos/thumbs/media-day/1/_GTS3838.webp 800w, photos/media-day/1/_GTS3838.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/1/_GTS3943.jpg",
         "alt": "Softball 2026",
-        "caption": "Softball 2026"
+        "caption": "Softball 2026",
+        "thumb": "photos/thumbs/media-day/1/_GTS3943.webp",
+        "srcset": "photos/thumbs/media-day/1/_GTS3943.webp 800w, photos/media-day/1/_GTS3943.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/2/_GTS2083.jpg",
         "alt": "Men's Basketball 2026",
-        "caption": "Men's Basketball 2026"
+        "caption": "Men's Basketball 2026",
+        "thumb": "photos/thumbs/media-day/2/_GTS2083.webp",
+        "srcset": "photos/thumbs/media-day/2/_GTS2083.webp 800w, photos/media-day/2/_GTS2083.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/1/_GTS4176.jpg",
         "alt": "Softball 2026",
-        "caption": "Softball 2026"
+        "caption": "Softball 2026",
+        "thumb": "photos/thumbs/media-day/1/_GTS4176.webp",
+        "srcset": "photos/thumbs/media-day/1/_GTS4176.webp 800w, photos/media-day/1/_GTS4176.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/2/_GTS1847.jpg",
         "alt": "Men's Basketball 2026",
-        "caption": "Men's Basketball 2026"
+        "caption": "Men's Basketball 2026",
+        "thumb": "photos/thumbs/media-day/2/_GTS1847.webp",
+        "srcset": "photos/thumbs/media-day/2/_GTS1847.webp 800w, photos/media-day/2/_GTS1847.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/1/_GTS3870.jpg",
         "alt": "Softball 2026",
-        "caption": "Softball 2026"
+        "caption": "Softball 2026",
+        "thumb": "photos/thumbs/media-day/1/_GTS3870.webp",
+        "srcset": "photos/thumbs/media-day/1/_GTS3870.webp 800w, photos/media-day/1/_GTS3870.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/3/_GTS1480.jpg",
         "alt": "Wrestling 2026",
-        "caption": "Wrestling 2026"
+        "caption": "Wrestling 2026",
+        "thumb": "photos/thumbs/media-day/3/_GTS1480.webp",
+        "srcset": "photos/thumbs/media-day/3/_GTS1480.webp 800w, photos/media-day/3/_GTS1480.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/1/_GTS4191.jpg",
         "alt": "Softball 2026",
-        "caption": "Softball 2026"
+        "caption": "Softball 2026",
+        "thumb": "photos/thumbs/media-day/1/_GTS4191.webp",
+        "srcset": "photos/thumbs/media-day/1/_GTS4191.webp 800w, photos/media-day/1/_GTS4191.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/3/_GTS1596.jpg",
         "alt": "Wrestling 2026",
-        "caption": "Wrestling 2026"
+        "caption": "Wrestling 2026",
+        "thumb": "photos/thumbs/media-day/3/_GTS1596.webp",
+        "srcset": "photos/thumbs/media-day/3/_GTS1596.webp 800w, photos/media-day/3/_GTS1596.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/media-day/2/_GTS2234.jpg",
         "alt": "Men's Basketball 2026",
-        "caption": "Men's Basketball 2026"
+        "caption": "Men's Basketball 2026",
+        "thumb": "photos/thumbs/media-day/2/_GTS2234.webp",
+        "srcset": "photos/thumbs/media-day/2/_GTS2234.webp 800w, photos/media-day/2/_GTS2234.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/3/_GTS1541.jpg",
         "alt": "Wrestling 2026",
-        "caption": "Wrestling 2026"
+        "caption": "Wrestling 2026",
+        "thumb": "photos/thumbs/media-day/3/_GTS1541.webp",
+        "srcset": "photos/thumbs/media-day/3/_GTS1541.webp 800w, photos/media-day/3/_GTS1541.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/media-day/1/_GTS3897.jpg",
         "alt": "Softball 2026",
-        "caption": "Softball 2026"
+        "caption": "Softball 2026",
+        "thumb": "photos/thumbs/media-day/1/_GTS3897.webp",
+        "srcset": "photos/thumbs/media-day/1/_GTS3897.webp 800w, photos/media-day/1/_GTS3897.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/2/_GTS1965.jpg",
         "alt": "Men's Basketball 2026",
-        "caption": "Men's Basketball 2026"
+        "caption": "Men's Basketball 2026",
+        "thumb": "photos/thumbs/media-day/2/_GTS1965.webp",
+        "srcset": "photos/thumbs/media-day/2/_GTS1965.webp 800w, photos/media-day/2/_GTS1965.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/4/_GTS0933.jpg",
         "alt": "Women's Basketball 2026",
-        "caption": "Women's Basketball 2026"
+        "caption": "Women's Basketball 2026",
+        "thumb": "photos/thumbs/media-day/4/_GTS0933.webp",
+        "srcset": "photos/thumbs/media-day/4/_GTS0933.webp 800w, photos/media-day/4/_GTS0933.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/2/_GTS1891.jpg",
         "alt": "Men's Basketball 2026",
-        "caption": "Men's Basketball 2026"
+        "caption": "Men's Basketball 2026",
+        "thumb": "photos/thumbs/media-day/2/_GTS1891.webp",
+        "srcset": "photos/thumbs/media-day/2/_GTS1891.webp 800w, photos/media-day/2/_GTS1891.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/4/_GTS0762.jpg",
         "alt": "Women's Basketball 2026",
-        "caption": "Women's Basketball 2026"
+        "caption": "Women's Basketball 2026",
+        "thumb": "photos/thumbs/media-day/4/_GTS0762.webp",
+        "srcset": "photos/thumbs/media-day/4/_GTS0762.webp 800w, photos/media-day/4/_GTS0762.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/3/_GTS1604.jpg",
         "alt": "Wrestling 2026",
-        "caption": "Wrestling 2026"
+        "caption": "Wrestling 2026",
+        "thumb": "photos/thumbs/media-day/3/_GTS1604.webp",
+        "srcset": "photos/thumbs/media-day/3/_GTS1604.webp 800w, photos/media-day/3/_GTS1604.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/4/_GTS0420.jpg",
         "alt": "Women's Basketball 2026",
-        "caption": "Women's Basketball 2026"
+        "caption": "Women's Basketball 2026",
+        "thumb": "photos/thumbs/media-day/4/_GTS0420.webp",
+        "srcset": "photos/thumbs/media-day/4/_GTS0420.webp 800w, photos/media-day/4/_GTS0420.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/5/7d1a3ac8-c0a6-48a3-a45e-5cba2680f026_rw_1200.jpg",
         "alt": "Football 2026",
-        "caption": "Football 2026"
+        "caption": "Football 2026",
+        "thumb": "photos/thumbs/media-day/5/7d1a3ac8-c0a6-48a3-a45e-5cba2680f026_rw_1200.webp",
+        "srcset": "photos/thumbs/media-day/5/7d1a3ac8-c0a6-48a3-a45e-5cba2680f026_rw_1200.webp 800w, photos/media-day/5/7d1a3ac8-c0a6-48a3-a45e-5cba2680f026_rw_1200.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/media-day/4/_GTS1385.jpg",
         "alt": "Women's Basketball 2026",
-        "caption": "Women's Basketball 2026"
+        "caption": "Women's Basketball 2026",
+        "thumb": "photos/thumbs/media-day/4/_GTS1385.webp",
+        "srcset": "photos/thumbs/media-day/4/_GTS1385.webp 800w, photos/media-day/4/_GTS1385.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/media-day/4/_GTS0447.jpg",
         "alt": "Women's Basketball 2026",
-        "caption": "Women's Basketball 2026"
+        "caption": "Women's Basketball 2026",
+        "thumb": "photos/thumbs/media-day/4/_GTS0447.webp",
+        "srcset": "photos/thumbs/media-day/4/_GTS0447.webp 800w, photos/media-day/4/_GTS0447.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/6/22f187e8-7d00-4095-b96c-a590e0fca5cd_rw_600.jpg",
         "alt": "Football 2026",
-        "caption": "Football 2026"
+        "caption": "Football 2026",
+        "thumb": "photos/thumbs/media-day/6/22f187e8-7d00-4095-b96c-a590e0fca5cd_rw_600.webp",
+        "srcset": "photos/thumbs/media-day/6/22f187e8-7d00-4095-b96c-a590e0fca5cd_rw_600.webp 800w, photos/media-day/6/22f187e8-7d00-4095-b96c-a590e0fca5cd_rw_600.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/5/8103f437-81f0-4a2b-9593-c2b35b66bf36_rw_600.jpg",
         "alt": "Football 2026",
-        "caption": "Football 2026"
+        "caption": "Football 2026",
+        "thumb": "photos/thumbs/media-day/5/8103f437-81f0-4a2b-9593-c2b35b66bf36_rw_600.webp",
+        "srcset": "photos/thumbs/media-day/5/8103f437-81f0-4a2b-9593-c2b35b66bf36_rw_600.webp 800w, photos/media-day/5/8103f437-81f0-4a2b-9593-c2b35b66bf36_rw_600.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/4/_GTS1324.jpg",
         "alt": "Women's Basketball 2026",
-        "caption": "Women's Basketball 2026"
+        "caption": "Women's Basketball 2026",
+        "thumb": "photos/thumbs/media-day/4/_GTS1324.webp",
+        "srcset": "photos/thumbs/media-day/4/_GTS1324.webp 800w, photos/media-day/4/_GTS1324.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/7/_GTS2977.jpg",
         "alt": "Men's Soccer 2026",
-        "caption": "Men's Soccer 2026"
+        "caption": "Men's Soccer 2026",
+        "thumb": "photos/thumbs/media-day/7/_GTS2977.webp",
+        "srcset": "photos/thumbs/media-day/7/_GTS2977.webp 800w, photos/media-day/7/_GTS2977.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/media-day/5/e32a1453-9851-4425-9fca-81a5d7d77d2d_rw_600.jpg",
         "alt": "Football 2026",
-        "caption": "Football 2026"
+        "caption": "Football 2026",
+        "thumb": "photos/thumbs/media-day/5/e32a1453-9851-4425-9fca-81a5d7d77d2d_rw_600.webp",
+        "srcset": "photos/thumbs/media-day/5/e32a1453-9851-4425-9fca-81a5d7d77d2d_rw_600.webp 800w, photos/media-day/5/e32a1453-9851-4425-9fca-81a5d7d77d2d_rw_600.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/6/c2bb3125-6239-451a-90b8-afca62c5a926_rw_600.jpg",
         "alt": "Football 2026",
-        "caption": "Football 2026"
+        "caption": "Football 2026",
+        "thumb": "photos/thumbs/media-day/6/c2bb3125-6239-451a-90b8-afca62c5a926_rw_600.webp",
+        "srcset": "photos/thumbs/media-day/6/c2bb3125-6239-451a-90b8-afca62c5a926_rw_600.webp 800w, photos/media-day/6/c2bb3125-6239-451a-90b8-afca62c5a926_rw_600.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/6/b2ab9968-b918-48b8-b30c-eff541223a4f_rw_600.jpg",
         "alt": "Football 2026",
-        "caption": "Football 2026"
+        "caption": "Football 2026",
+        "thumb": "photos/thumbs/media-day/6/b2ab9968-b918-48b8-b30c-eff541223a4f_rw_600.webp",
+        "srcset": "photos/thumbs/media-day/6/b2ab9968-b918-48b8-b30c-eff541223a4f_rw_600.webp 800w, photos/media-day/6/b2ab9968-b918-48b8-b30c-eff541223a4f_rw_600.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/8/_GTS1450.jpg",
         "alt": "Baseball 2025",
-        "caption": "Baseball 2025"
+        "caption": "Baseball 2025",
+        "thumb": "photos/thumbs/media-day/8/_GTS1450.webp",
+        "srcset": "photos/thumbs/media-day/8/_GTS1450.webp 800w, photos/media-day/8/_GTS1450.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/media-day/6/6270bed1-bca7-4237-b2f2-b2c9a2fdf96e_rw_600.jpg",
         "alt": "Football 2026",
-        "caption": "Football 2026"
+        "caption": "Football 2026",
+        "thumb": "photos/thumbs/media-day/6/6270bed1-bca7-4237-b2f2-b2c9a2fdf96e_rw_600.webp",
+        "srcset": "photos/thumbs/media-day/6/6270bed1-bca7-4237-b2f2-b2c9a2fdf96e_rw_600.webp 800w, photos/media-day/6/6270bed1-bca7-4237-b2f2-b2c9a2fdf96e_rw_600.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/7/_GTS2873.jpg",
         "alt": "Men's Soccer 2026",
-        "caption": "Men's Soccer 2026"
+        "caption": "Men's Soccer 2026",
+        "thumb": "photos/thumbs/media-day/7/_GTS2873.webp",
+        "srcset": "photos/thumbs/media-day/7/_GTS2873.webp 800w, photos/media-day/7/_GTS2873.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/8/_GTS1308.jpg",
         "alt": "Baseball 2025",
-        "caption": "Baseball 2025"
+        "caption": "Baseball 2025",
+        "thumb": "photos/thumbs/media-day/8/_GTS1308.webp",
+        "srcset": "photos/thumbs/media-day/8/_GTS1308.webp 800w, photos/media-day/8/_GTS1308.jpg 1562w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1025
       },
       {
         "src": "photos/media-day/6/b85e6844-e76a-4618-9857-25c89681164f_rw_600.jpg",
         "alt": "Football 2026",
-        "caption": "Football 2026"
+        "caption": "Football 2026",
+        "thumb": "photos/thumbs/media-day/6/b85e6844-e76a-4618-9857-25c89681164f_rw_600.webp",
+        "srcset": "photos/thumbs/media-day/6/b85e6844-e76a-4618-9857-25c89681164f_rw_600.webp 800w, photos/media-day/6/b85e6844-e76a-4618-9857-25c89681164f_rw_600.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/7/_GTS2935.jpg",
         "alt": "Men's Soccer 2026",
-        "caption": "Men's Soccer 2026"
+        "caption": "Men's Soccer 2026",
+        "thumb": "photos/thumbs/media-day/7/_GTS2935.webp",
+        "srcset": "photos/thumbs/media-day/7/_GTS2935.webp 800w, photos/media-day/7/_GTS2935.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/media-day/8/_GTS1488.jpg",
         "alt": "Baseball 2025",
-        "caption": "Baseball 2025"
+        "caption": "Baseball 2025",
+        "thumb": "photos/thumbs/media-day/8/_GTS1488.webp",
+        "srcset": "photos/thumbs/media-day/8/_GTS1488.webp 800w, photos/media-day/8/_GTS1488.jpg 1376w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1163
       },
       {
         "src": "photos/media-day/7/_GTS2885.jpg",
         "alt": "Men's Soccer 2026",
-        "caption": "Men's Soccer 2026"
+        "caption": "Men's Soccer 2026",
+        "thumb": "photos/thumbs/media-day/7/_GTS2885.webp",
+        "srcset": "photos/thumbs/media-day/7/_GTS2885.webp 800w, photos/media-day/7/_GTS2885.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/8/_GTS1722.jpg",
         "alt": "Baseball 2025",
-        "caption": "Baseball 2025"
+        "caption": "Baseball 2025",
+        "thumb": "photos/thumbs/media-day/8/_GTS1722.webp",
+        "srcset": "photos/thumbs/media-day/8/_GTS1722.webp 800w, photos/media-day/8/_GTS1722.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/media-day/9/a234407a-7549-4688-b21a-1ea27445fc44_rw_3840.jpg",
         "alt": "Men's Basketball 2025",
-        "caption": "Men's Basketball 2025"
+        "caption": "Men's Basketball 2025",
+        "thumb": "photos/thumbs/media-day/9/a234407a-7549-4688-b21a-1ea27445fc44_rw_3840.webp",
+        "srcset": "photos/thumbs/media-day/9/a234407a-7549-4688-b21a-1ea27445fc44_rw_3840.webp 800w, photos/media-day/9/a234407a-7549-4688-b21a-1ea27445fc44_rw_3840.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/media-day/7/_GTS2899.jpg",
         "alt": "Men's Soccer 2026",
-        "caption": "Men's Soccer 2026"
+        "caption": "Men's Soccer 2026",
+        "thumb": "photos/thumbs/media-day/7/_GTS2899.webp",
+        "srcset": "photos/thumbs/media-day/7/_GTS2899.webp 800w, photos/media-day/7/_GTS2899.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/8/_GTS1468.jpg",
         "alt": "Baseball 2025",
-        "caption": "Baseball 2025"
+        "caption": "Baseball 2025",
+        "thumb": "photos/thumbs/media-day/8/_GTS1468.webp",
+        "srcset": "photos/thumbs/media-day/8/_GTS1468.webp 800w, photos/media-day/8/_GTS1468.jpg 1600w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1000
       },
       {
         "src": "photos/media-day/9/e80d827b-08ad-421f-af02-4c19e7051f76_rw_3840.jpg",
         "alt": "Men's Basketball 2025",
-        "caption": "Men's Basketball 2025"
+        "caption": "Men's Basketball 2025",
+        "thumb": "photos/thumbs/media-day/9/e80d827b-08ad-421f-af02-4c19e7051f76_rw_3840.webp",
+        "srcset": "photos/thumbs/media-day/9/e80d827b-08ad-421f-af02-4c19e7051f76_rw_3840.webp 800w, photos/media-day/9/e80d827b-08ad-421f-af02-4c19e7051f76_rw_3840.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/media-day/10/_GTS7309.jpg",
         "alt": "Football 2025",
-        "caption": "Football 2025"
+        "caption": "Football 2025",
+        "thumb": "photos/thumbs/media-day/10/_GTS7309.webp",
+        "srcset": "photos/thumbs/media-day/10/_GTS7309.webp 800w, photos/media-day/10/_GTS7309.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/9/9d0ab66a-8513-4016-be2c-856451533981_rw_3840.jpg",
         "alt": "Men's Basketball 2025",
-        "caption": "Men's Basketball 2025"
+        "caption": "Men's Basketball 2025",
+        "thumb": "photos/thumbs/media-day/9/9d0ab66a-8513-4016-be2c-856451533981_rw_3840.webp",
+        "srcset": "photos/thumbs/media-day/9/9d0ab66a-8513-4016-be2c-856451533981_rw_3840.webp 800w, photos/media-day/9/9d0ab66a-8513-4016-be2c-856451533981_rw_3840.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/10/_GTS7307.jpg",
         "alt": "Football 2025",
-        "caption": "Football 2025"
+        "caption": "Football 2025",
+        "thumb": "photos/thumbs/media-day/10/_GTS7307.webp",
+        "srcset": "photos/thumbs/media-day/10/_GTS7307.webp 800w, photos/media-day/10/_GTS7307.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/9/effb2a17-8b7b-44fa-b7c4-85bf82f66f07_rw_3840.jpg",
         "alt": "Men's Basketball 2025",
-        "caption": "Men's Basketball 2025"
+        "caption": "Men's Basketball 2025",
+        "thumb": "photos/thumbs/media-day/9/effb2a17-8b7b-44fa-b7c4-85bf82f66f07_rw_3840.webp",
+        "srcset": "photos/thumbs/media-day/9/effb2a17-8b7b-44fa-b7c4-85bf82f66f07_rw_3840.webp 800w, photos/media-day/9/effb2a17-8b7b-44fa-b7c4-85bf82f66f07_rw_3840.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/media-day/10/_GTS7364.jpg",
         "alt": "Football 2025",
-        "caption": "Football 2025"
+        "caption": "Football 2025",
+        "thumb": "photos/thumbs/media-day/10/_GTS7364.webp",
+        "srcset": "photos/thumbs/media-day/10/_GTS7364.webp 800w, photos/media-day/10/_GTS7364.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/media-day/9/eda165ff-85b0-41cf-acd9-5fdb1abb876f_rw_1920.jpg",
         "alt": "Men's Basketball 2025",
-        "caption": "Men's Basketball 2025"
+        "caption": "Men's Basketball 2025",
+        "thumb": "photos/thumbs/media-day/9/eda165ff-85b0-41cf-acd9-5fdb1abb876f_rw_1920.webp",
+        "srcset": "photos/thumbs/media-day/9/eda165ff-85b0-41cf-acd9-5fdb1abb876f_rw_1920.webp 800w, photos/media-day/9/eda165ff-85b0-41cf-acd9-5fdb1abb876f_rw_1920.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/10/_GTS7305.jpg",
         "alt": "Football 2025",
-        "caption": "Football 2025"
+        "caption": "Football 2025",
+        "thumb": "photos/thumbs/media-day/10/_GTS7305.webp",
+        "srcset": "photos/thumbs/media-day/10/_GTS7305.webp 800w, photos/media-day/10/_GTS7305.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       },
       {
         "src": "photos/media-day/9/34ef0f97-a65c-4265-a921-a9fc35b7e1b1_rw_3840.jpg",
         "alt": "Men's Basketball 2025",
-        "caption": "Men's Basketball 2025"
+        "caption": "Men's Basketball 2025",
+        "thumb": "photos/thumbs/media-day/9/34ef0f97-a65c-4265-a921-a9fc35b7e1b1_rw_3840.webp",
+        "srcset": "photos/thumbs/media-day/9/34ef0f97-a65c-4265-a921-a9fc35b7e1b1_rw_3840.webp 800w, photos/media-day/9/34ef0f97-a65c-4265-a921-a9fc35b7e1b1_rw_3840.jpg 2000w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 534
       },
       {
         "src": "photos/media-day/10/_GTS7377-2.jpg",
         "alt": "Football 2025",
-        "caption": "Football 2025"
+        "caption": "Football 2025",
+        "thumb": "photos/thumbs/media-day/10/_GTS7377-2.webp",
+        "srcset": "photos/thumbs/media-day/10/_GTS7377-2.webp 800w, photos/media-day/10/_GTS7377-2.jpg 1333w",
+        "sizes": "(max-width: 640px) 50vw, (max-width: 960px) 33vw, 308px",
+        "width": 800,
+        "height": 1201
       }
     ]
   }
