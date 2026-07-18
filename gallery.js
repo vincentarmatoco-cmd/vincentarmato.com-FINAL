@@ -10,19 +10,25 @@
   if (!mounts.length) return;
 
   function itemHTML(entry, opts) {
+    // The anchor keeps the full-resolution file (lightbox target); the grid
+    // tile itself uses the 800px thumb from photos/thumbs/.
     var src = entry.src;
+    var thumb = entry.thumb || entry.src;
     var alt = (entry.alt || entry.caption || '').replace(/"/g, '&quot;');
     var cap = entry.caption || '';
     // Optional responsive support: manifest may supply `srcset` + `sizes`.
     var srcset = entry.srcset ? ' srcset="' + entry.srcset + '"' : '';
     var sizes = entry.sizes ? ' sizes="' + entry.sizes + '"' : '';
+    var dims = entry.width && entry.height
+      ? ' width="' + entry.width + '" height="' + entry.height + '"'
+      : '';
     // The first few tiles are above the fold; the rest lazy-load.
     var loadAttr = opts && opts.eager ? '' : ' loading="lazy"';
     // No target="_blank": the lightbox handles clicks; if JS ever fails the
     // link opens in the same tab (never a jarring new tab on mobile).
     return (
       '<a class="collage-item" href="' + src + '">' +
-        '<img src="' + src + '"' + srcset + sizes + ' alt="' + alt + '"' +
+        '<img src="' + thumb + '"' + srcset + sizes + dims + ' alt="' + alt + '"' +
           loadAttr + ' decoding="async" />' +
         '<span class="collage-caption">' + cap + '</span>' +
       '</a>'

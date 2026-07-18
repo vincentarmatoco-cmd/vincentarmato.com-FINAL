@@ -17,30 +17,21 @@
   if (typeof THREE === 'undefined') return;
 
   var IMAGE_SETS = {
-    archive: [
-      'assets/gallery3d/g01.jpg', 'assets/gallery3d/g02.jpg',
-      'assets/gallery3d/g03.jpg', 'assets/gallery3d/g04.jpg',
-      'assets/gallery3d/g05.jpg', 'assets/gallery3d/g06.jpg',
-      'assets/gallery3d/g07.jpg', 'assets/gallery3d/g08.jpg',
-      'assets/gallery3d/g09.jpg', 'assets/gallery3d/g10.jpg',
-      'assets/gallery3d/g11.jpg', 'assets/gallery3d/g12.jpg',
-      'assets/gallery3d/g13.jpg', 'assets/gallery3d/g14.jpg'
-    ],
     // Add more photos of Vincent by dropping them in photos/about-me/ and
     // listing the filename here — see photos/about-me/README.md.
     // Interleaved athlete/behind-the-lens so the fly-through never puts two
     // similar shots back to back.
     about: [
-      'photos/about-me/01.jpg',
-      'photos/about-me/athlete/football-portrait.jpg',
-      'photos/about-me/behind-the-lens/bts-01.jpg',
-      'photos/about-me/athlete/basketball-seniornight.jpg',
-      'photos/about-me/behind-the-lens/bts-02.jpg',
-      'photos/about-me/athlete/basketball-huddle.jpg',
-      'photos/about-me/behind-the-lens/bts-03.jpg',
-      'photos/about-me/athlete/football-night.jpg',
-      'photos/about-me/behind-the-lens/bts-04.jpg',
-      'photos/about-me/pfp.jpg'
+      'photos/thumbs/about-me/01.webp',
+      'photos/thumbs/about-me/athlete/football-portrait.webp',
+      'photos/thumbs/about-me/behind-the-lens/bts-01.webp',
+      'photos/thumbs/about-me/athlete/basketball-seniornight.webp',
+      'photos/thumbs/about-me/behind-the-lens/bts-02.webp',
+      'photos/thumbs/about-me/athlete/basketball-huddle.webp',
+      'photos/thumbs/about-me/behind-the-lens/bts-03.webp',
+      'photos/thumbs/about-me/athlete/football-night.webp',
+      'photos/thumbs/about-me/behind-the-lens/bts-04.webp',
+      'photos/thumbs/about-me/pfp.webp'
     ]
   };
 
