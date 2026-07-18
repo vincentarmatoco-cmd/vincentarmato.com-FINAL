@@ -405,7 +405,30 @@
     </div>
 
     <script src="motion.js"></script>
-    <script src="assets/vendor/three.min.js"></script>
-    <script src="gallery3d.js"></script>
+    <script>
+      // Defer the 600 KB three.js bundle: the 3D hero boots once the page has
+      // finished loading (or on first interaction, whichever comes first), so
+      // it never competes with images and fonts for bandwidth.
+      (function () {
+        var loaded = false;
+        function loadGallery() {
+          if (loaded) return;
+          loaded = true;
+          var three = document.createElement('script');
+          three.src = 'assets/vendor/three.min.js';
+          three.onload = function () {
+            var g = document.createElement('script');
+            g.src = 'gallery3d.js?v=2';
+            document.body.appendChild(g);
+          };
+          document.body.appendChild(three);
+        }
+        if (document.readyState === 'complete') loadGallery();
+        else window.addEventListener('load', loadGallery, { once: true });
+        ['pointerdown', 'keydown', 'scroll', 'touchstart'].forEach(function (evt) {
+          window.addEventListener(evt, loadGallery, { once: true, passive: true });
+        });
+      })();
+    </script>
   </body>
 </html>
