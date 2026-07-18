@@ -855,6 +855,8 @@ h1, h2, h3 {
 
 .collage-item img {
   width: 100%;
+  /* Keep the HTML height attribute as a ratio hint only, never a fixed size. */
+  height: auto;
   display: block;
   transition: transform 400ms ease;
 }
