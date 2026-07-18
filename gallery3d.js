@@ -22,16 +22,16 @@
     // Interleaved athlete/behind-the-lens so the fly-through never puts two
     // similar shots back to back.
     about: [
-      'photos/about-me/01.jpg',
-      'photos/about-me/athlete/football-portrait.jpg',
-      'photos/about-me/behind-the-lens/bts-01.jpg',
-      'photos/about-me/athlete/basketball-seniornight.jpg',
-      'photos/about-me/behind-the-lens/bts-02.jpg',
-      'photos/about-me/athlete/basketball-huddle.jpg',
-      'photos/about-me/behind-the-lens/bts-03.jpg',
-      'photos/about-me/athlete/football-night.jpg',
-      'photos/about-me/behind-the-lens/bts-04.jpg',
-      'photos/about-me/pfp.jpg'
+      'photos/thumbs/about-me/01.webp',
+      'photos/thumbs/about-me/athlete/football-portrait.webp',
+      'photos/thumbs/about-me/behind-the-lens/bts-01.webp',
+      'photos/thumbs/about-me/athlete/basketball-seniornight.webp',
+      'photos/thumbs/about-me/behind-the-lens/bts-02.webp',
+      'photos/thumbs/about-me/athlete/basketball-huddle.webp',
+      'photos/thumbs/about-me/behind-the-lens/bts-03.webp',
+      'photos/thumbs/about-me/athlete/football-night.webp',
+      'photos/thumbs/about-me/behind-the-lens/bts-04.webp',
+      'photos/thumbs/about-me/pfp.webp'
     ]
   };
 
